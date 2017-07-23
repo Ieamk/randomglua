@@ -1,2 +1,2 @@
-# randomglua
-Random scripts
+# Random Glua
+Random scripts made by me
